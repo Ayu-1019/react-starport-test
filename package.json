@@ -15,10 +15,12 @@
     "@zougt/vite-plugin-theme-preprocessor": "^1.4.5",
     "antd": "^4.24.2",
     "framer-motion": "^7.6.6",
+    "r-starport": "^0.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.6.0",
-    "react-router-dom": "^6.4.3"
+    "react-router-dom": "^6.4.3",
+    "starport-react": "^0.0.2"
   },
   "devDependencies": {
     "@types/node": "^18.11.9",

@@ -4,6 +4,8 @@ import App from './App'
 import { HashRouter } from 'react-router-dom'
 import Loading from '@/components/Loading'
 
+// import { FloatProxy } from 'starport-react'
+
 import './assets/style/base.less'
 import 'antd/dist/antd.less'
 import 'antd/dist/antd.variable.min.css'
